@@ -20,7 +20,7 @@ This project is developed using the following technologies:
 - **Deploy Contracts**: Deploy using the command `truffle migrate --reset`.
 - **Test Contracts**: Test the contract using the command `truffle test`.
 
-## About Implementation and Functions
+## About Implementation and Functions(WalkThrough of Contract)
 
 - **constructor(uint _biddingTime, address payable _beneficiary)**:
   - **Purpose**: Initializes the auction with a specified bidding time and beneficiary address.
